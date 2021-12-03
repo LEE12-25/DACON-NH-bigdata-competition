@@ -1,5 +1,6 @@
 # DACON-NH-bigdata-competition
 "데이터, 문화가 되다"  2021년(제2회) NH투자증권 빅데이터 경진대회
+
 https://dacon.io/competitions/official/235798/leaderboard
 
 주제: '데이터 결합을 통한 주식 보유기간 예측 및 서비스 아이디어 제안'
